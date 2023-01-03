@@ -1,0 +1,13 @@
+name: BedWarsPractice
+version: 1.0
+main: com.silverhawk21.BedwarsPractice
+api-version: 1.8.8
+authors: [ SilverHawk21 ]
+depend: [ ProtocolLib, RedLib, Citizens, BedWars1058 ]
+softdepend: [ Multiverse-Core ]
+description: A plugin to practice Bed Wars.
+website: play.lotusmc.xyz
+commands:
+  bwp:
+    description: BedWarsPractice plugin.
+    usage: /<command>
